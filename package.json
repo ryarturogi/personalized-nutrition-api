@@ -1,0 +1,28 @@
+{
+  "name": "personalized-nutrition-api",
+  "version": "1.0.0",
+  "description": "A personalized nutrition API that generates recommendations using OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "openai": "^3.1.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "personalized",
+    "nutrition",
+    "API",
+    "OpenAI"
+  ],
+  "author": "",
+  "license": "ISC"
+}
